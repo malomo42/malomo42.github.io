@@ -1630,6 +1630,11 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 			}
+			
+			#main .thumb > img {
+				height: 100%;
+				align-self: center;
+			}
 
 			#main .thumb > .image {
 				-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
